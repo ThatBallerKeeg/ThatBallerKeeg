@@ -1,12 +1,12 @@
 # Hi, I'm Keegan 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, working towards mastering Python, C#, and game development.
+Welcome to my GitHub profile! I'm a passionate developer, working towards mastering Python, C#, and game development, I am also a very skilled graphic designer.
 
 ## 🚀 About Me
 
 - 🖥️ I’m currently learning **Python**, **C#**, for game development.
 - 🎮 I love working on **game development** projects and challenges.
-- 
+
 ## 🌱 My Projects
 
 
